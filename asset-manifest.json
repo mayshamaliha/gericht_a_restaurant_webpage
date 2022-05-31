@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gericht_a_restaurant_webpage/static/css/main.877a644c.css",
+    "main.js": "/gericht_a_restaurant_webpage/static/js/main.7eebbc1e.js",
+    "static/media/meal.mp4": "/gericht_a_restaurant_webpage/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/welcome.png": "/gericht_a_restaurant_webpage/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/laurels.png": "/gericht_a_restaurant_webpage/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/gericht_a_restaurant_webpage/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/gericht_a_restaurant_webpage/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/gericht_a_restaurant_webpage/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/knife.png": "/gericht_a_restaurant_webpage/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/gericht_a_restaurant_webpage/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/gericht_a_restaurant_webpage/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/gericht_a_restaurant_webpage/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/gericht_a_restaurant_webpage/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/gericht_a_restaurant_webpage/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/gericht_a_restaurant_webpage/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/gericht_a_restaurant_webpage/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/gericht_a_restaurant_webpage/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/gericht_a_restaurant_webpage/index.html",
+    "static/media/spoon.svg": "/gericht_a_restaurant_webpage/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.877a644c.css.map": "/gericht_a_restaurant_webpage/static/css/main.877a644c.css.map",
+    "main.7eebbc1e.js.map": "/gericht_a_restaurant_webpage/static/js/main.7eebbc1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877a644c.css",
+    "static/js/main.7eebbc1e.js"
+  ]
+}
